@@ -9,5 +9,5 @@ Dependencies - Flask, python environment
 4.Run $env:FLASK_APP='app'   
 5.Run $env:FLASK_ENV='development   
 6.Run flask run   
-7.Open browser to url localhost:5000   
-
+7.Open browser to url localhost:5000     
+Second contiributor github: 
