@@ -10,4 +10,4 @@ Dependencies - Flask, python environment
 5.Run $env:FLASK_ENV='development   
 6.Run flask run   
 7.Open browser to url localhost:5000     
-Second contiributor github: 
+Second contiributor github: https://github.com/Anishfish
